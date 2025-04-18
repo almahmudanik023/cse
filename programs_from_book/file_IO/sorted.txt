@@ -1,0 +1,5 @@
+The sorted elements of the array are:
+3
+7
+7
+23
